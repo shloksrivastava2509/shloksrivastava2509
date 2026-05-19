@@ -61,7 +61,7 @@ An Arduino-powered smart combination lock using short/long press authentication,
 * Real-Time Embedded Systems
 * AI for Accessibility
 
----
+----
 
 ## 📫 Connect With Me
 
